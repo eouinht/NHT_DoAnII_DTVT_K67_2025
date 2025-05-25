@@ -24,7 +24,7 @@ Dự án sử dụng vi điều khiển AVR để đọc dữ liệu thời gian
 - ProgISP (nạp file .hex vào vi điều khiển AVR).
 
 ## Cấu trúc thư mục
-
+```
 NHT_DoAnII_DTVT_K67_2025/
 ├── Image/                 # Hình ảnh liên quan đến đồ án (mạch mô phỏng, kết quả, sơ đồ, v.v.)
 ├── Project2_NHT/          # Thư mục chứa file mô phỏng Proteus (*.pdsprj, *.dsn)
@@ -35,7 +35,7 @@ NHT_DoAnII_DTVT_K67_2025/
 ├── BaoCao_DoAn.pdf        # File báo cáo đồ án
 ├── .gitignore             # Tệp cấu hình bỏ qua file/thư mục khi dùng Git
 └── README.md              # Tệp mô tả dự án (file này)
-
+```
 
 
 ## Hướng dẫn sử dụng
