@@ -1,0 +1,37 @@
+# Output files
+*.hex
+*.elf
+*.lss
+*.map
+*.bin
+*.o
+
+# Microchip/Atmel Studio build files
+*.aps
+*.dep
+*.sdf
+*.opendb
+*.opensdf
+*.db
+*.log
+*.obj
+*.d
+
+# Debug folders
+**/Debug/
+**/Release/
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+
+# Proteus simulation files (optional)
+*.cfg
+*.pdsbak
+*.err
+*.log
+*.DBK
+
+# VS Code or other editor folders
+.vscode/
