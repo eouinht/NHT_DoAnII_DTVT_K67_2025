@@ -261,7 +261,7 @@ void PORT()
 		led_7_count = 0;
 		
 		// Ham tre khoang 0.5s
-		_delay_ms(100);
+		_delay_ms(1000);
 	}
 	
 }

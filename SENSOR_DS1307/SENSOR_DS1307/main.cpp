@@ -133,9 +133,9 @@ int main(void) {
 	I2C_Init();
 	lcd_init();
 
-	// Uncomment if you want to set time once
-	//RTC_SetDate(0x04, 0x24, 0x05, 0x25); // Sunday, 24/05/2025
-	//RTC_SetTime(0x14, 0x56, 0x00);      // 14:56:00
+	 //Uncomment if you want to set time once
+	RTC_SetDate(0x04, 0x28, 0x05, 0x25); // VD Sunday, 24/05/2025
+	RTC_SetTime(0x19, 0x10, 0x00);      // VD 14:56:00
 
 	// === Setup PB1 as input with pull-up ===
 	DDRB &= ~(1 << PB1);    // Set PB1 as input
@@ -181,4 +181,8 @@ int main(void) {
 
 		_delay_ms(300);
 	}
+	//INIT();
+	//PORT();
+	//PB_2_LED();
+	return 0;
 }

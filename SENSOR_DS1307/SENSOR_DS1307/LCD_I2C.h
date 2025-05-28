@@ -14,7 +14,7 @@ extern "C" {
 
 	// Dia chi I2C 7-bit cua LCD (thuong la 0x27 hoac 0x3F)
 	// Nen dung I2C scanner de kiem tra dia chi thuc te
-	#define LCD_I2C_ADDR 0x27
+	#define LCD_I2C_ADDR 0x27 
 
 	// =========================
 	// CAU HINH LCD
