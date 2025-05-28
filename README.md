@@ -11,8 +11,8 @@ Dự án sử dụng vi điều khiển AVR để đọc dữ liệu thời gian
 - Nạp chương trình bằng ProgISP.
 
 ## Phần cứng sử dụng
-
-- Vi điều khiển: ATmega16 hoặc ATmega32.
+- Kít phát triển AVR. 
+- Vi điều khiển: ATmega16.
 - Module RTC: DS1307 + pin dự phòng.
 - LCD 16x2 điều khiển qua giao tiếp I2C.
 - Dây nối, điện trở, thạch anh, tụ lọc, nút nhấn (tùy chọn).
@@ -57,6 +57,8 @@ NHT_DoAnII_DTVT_K67_2025/
 4. **Xem tài liệu và kết quả**
    - Xem báo cáo trong file `BaoCao_DoAn.pdf`.
    - Tham khảo hình ảnh kết quả hoặc sơ đồ mô phỏng trong thư mục `Image/`.
+   - 
+   ![Kết quả mô phỏng]("Image\duonglich (2).jpg")
 
 ## Giấy phép
 
