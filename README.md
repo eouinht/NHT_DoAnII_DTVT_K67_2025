@@ -56,7 +56,7 @@ NHT_DoAnII_DTVT_K67_2025/
 
 4. **Xem tài liệu và kết quả**
    - Xem báo cáo trong file `BaoCao_DoAn.pdf`.
-   - Tham khảo hình ảnh kết quả hoặc sơ đồ mô phỏng trong thư mục `Image/`.
+   - Tham khảo hình ảnh kết quả hoặc sơ đồ mô phỏng trong thư mục `"Image\duonglich (2).jpg"`.
    - 
    ![Kết quả mô phỏng]("Image\duonglich (2).jpg")
 
