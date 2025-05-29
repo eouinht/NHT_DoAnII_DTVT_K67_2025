@@ -58,7 +58,8 @@ NHT_DoAnII_DTVT_K67_2025/
    - Xem báo cáo trong file `BaoCao_DoAn.pdf`.
    - Tham khảo hình ảnh kết quả hoặc sơ đồ mô phỏng trong thư mục `"Image\duonglich (2).jpg"`.
    - 
-   ![Kết quả mô phỏng]("Image\duonglich (2).jpg")
+  ![Lịch âm](https://raw.githubusercontent.com/eouinht/NHT_DoAnII_DTVT_K67_2025/main/Image/amlich%20(2).jpg)
+
 
 ## Giấy phép
 
