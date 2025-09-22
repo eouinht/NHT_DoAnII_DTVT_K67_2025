@@ -61,6 +61,3 @@ NHT_DoAnII_DTVT_K67_2025/
   ![Lịch âm](https://raw.githubusercontent.com/eouinht/NHT_DoAnII_DTVT_K67_2025/main/Image/amlich%20(2).jpg)
 
 
-## Giấy phép
-
-Dự án này được thực hiện phục vụ mục đích học tập và nghiên cứu tại trường Đại học. Người dùng có thể tham khảo, chỉnh sửa hoặc sử dụng lại cho mục đích cá nhân hoặc học thuật, nhưng vui lòng không sử dụng cho mục đích thương mại và cần ghi rõ nguồn gốc nếu chia sẻ lại.
