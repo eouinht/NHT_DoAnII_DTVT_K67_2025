@@ -59,5 +59,7 @@ NHT_DoAnII_DTVT_K67_2025/
    - Hình ảnh kết quả hiển thị thời gian thực với ngày dương lịch và âm lịch, thứ trong tuần.
   ![Lịch dương](https://github.com/eouinht/NHT_DoAnII_DTVT_K67_2025/blob/main/Image/duonglich%20(2).jpg)
   ![Lịch âm](https://raw.githubusercontent.com/eouinht/NHT_DoAnII_DTVT_K67_2025/main/Image/amlich%20(2).jpg)
-
+5. **Báo cáo**
+   - https://drive.google.com/file/d/1jxpkibBBj08neADgKj7MI4dVNm7tkYZV/view?usp=drive_link
+   
 
